@@ -23,7 +23,7 @@ Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti und
 ## Los geht's!
 Zum Starten [hier](https://andybraun.github.io/TP/TrivialCloosuit.html) klicken.
 
-Unterstützte Browser: Firefox, Chrome (notfalls mehrfach auf "Warten" klicken, bis die Seite geladen hat)
+Unterstützte Browser: Firefox, Chrome (notfalls mehrfach auf "Warten" klicken, bis die Seite geladen hat); 
 Nicht empfohlen: Internet Explorer
 
 * Zum Starten 1x auf "Spielbrett aufbauen" klicken
