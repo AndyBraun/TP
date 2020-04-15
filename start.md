@@ -14,7 +14,7 @@ Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti und
 
 
 ## Die Spielregeln
-1. Du spielst das Spiel auf deinem Laptop, wir schauen dir dabei zu.
+1. Du spielst das Spiel auf deinem Laptop, wir schauen dir über deinen geteilten Bildschirm dabei zu.
 1. Die Fragen lesen wir dir je nach Farbe vor. 
    1. Frage richtig - die Cloosen trinken Bier
    1. Frage falsch - Fabien trinkt ein Bier
