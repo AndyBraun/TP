@@ -16,8 +16,8 @@ Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti, To
 1. Die Fragen lesen wir dir je nach Farbe vor. 
    1. Frage richtig - die Cloosen trinken Bier
    1. Frage falsch - Fabien trinkt ein Bier
-   1. Käppelesfrag richtig - der Vorlesende trinkt einen Schnaps
-   1. Käppelesfrag falsch - Fabian trinkt einen Schaps
+   1. Käppelesfrage richtig - der Vorlesende trinkt einen Schnaps
+   1. Käppelesfrage falsch - Fabian trinkt einen Schaps
    
    
 ## Los geht's!
