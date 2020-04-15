@@ -1,9 +1,15 @@
 # Fabian's Moon Party From Outer Space
 
+## Digitale Grußkarte
 
 Lieber Fabian,
 
 da wir heute leider nicht nach Offenburg kommen könnten, versammeln wir uns eben digial für einen kleinen Umtrunk. Und welches Spiel könnte den besser einläuten als ein alter Klassiker. 
+Um Malcoms Oma zu zitieren "ooh, du hast Geburstag, hier hast du ne Karte mit Möpsen drauf..."
+
+Alles Gute zum 33. Geburtstag wünschen
+Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Stevo, Strotti
+
 
 ## Die Spielregeln
 1. Du spielst das Spiel auf deinem Laptop, wir schauen dir dabei zu.
@@ -13,6 +19,10 @@ da wir heute leider nicht nach Offenburg kommen könnten, versammeln wir uns ebe
    1. Käppelesfrag richtig - der Vorlesende trinkt einen Schnaps
    1. Käppelesfrag falsch - Fabian trinkt einen Schaps
    
+   
+## Los geht's!
 Zum Starten [hier](https://andybraun.github.io/TP/TrivialCloosuit.html) klicken.
+Getestet in Firefox, Chrome und Internet Explorer
+Notfalls auf "Warten" klicken. 
 
 ![TrivialCloosuit](https://andybraun.github.io/TP/TP.jpg)
