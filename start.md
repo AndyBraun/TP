@@ -5,7 +5,7 @@
 Lieber Fabian,
 
 da wir heute leider nicht nach Offenburg kommen könnten, versammeln wir uns eben digial für einen kleinen Umtrunk. Und welches Spiel könnte den besser einläuten als ein alter Klassiker. 
-Um Malcoms Oma zu zitieren "ooh, du hast Geburstag, hier hast du ne Karte mit Möpsen drauf..."
+Um Malcoms Oma zu zitieren "ooh, du hast Geburtstag, hier hast du ne Karte mit Möpsen drauf..."
 
 Alles Gute zum 33. Geburtstag wünschen 
 Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti und Tobi - natürlich mitsamt Kind und Kegel.
@@ -24,7 +24,6 @@ Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti und
 Zum Starten [hier](https://andybraun.github.io/TP/TrivialCloosuit.html) klicken.
 
 Unterstützte Browser: Firefox, Chrome (notfalls mehrfach auf "Warten" klicken, bis die Seite geladen hat)
-
 Nicht empfohlen: Internet Explorer
 
 * Zum Starten 1x auf "Spielbrett aufbauen" klicken
