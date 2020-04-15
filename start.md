@@ -7,7 +7,8 @@ Lieber Fabian,
 da wir heute leider nicht nach Offenburg kommen könnten, versammeln wir uns eben digial für einen kleinen Umtrunk. Und welches Spiel könnte den besser einläuten als ein alter Klassiker. 
 Um Malcoms Oma zu zitieren "ooh, du hast Geburstag, hier hast du ne Karte mit Möpsen drauf..."
 
-Alles Gute zum 33. Geburtstag wünschen Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti, Tobi mit Kind und Kegel.
+Alles Gute zum 33. Geburtstag wünschen 
+Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti, Tobi mit Kind und Kegel.
 
 
 ## Die Spielregeln
@@ -21,7 +22,8 @@ Alles Gute zum 33. Geburtstag wünschen Alex, Andy, Daniel B, Daniel H, Flori, F
    
 ## Los geht's!
 Zum Starten [hier](https://andybraun.github.io/TP/TrivialCloosuit.html) klicken.
+
 Getestet in Firefox, Chrome und Internet Explorer
-Notfalls auf "Warten" klicken. 
+Notfalls auf "Warten" klicken, bis das Spiel geladen het. 
 
 ![TrivialCloosuit](https://andybraun.github.io/TP/TP.jpg)
