@@ -22,6 +22,9 @@ Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti und
    1. Käppelesfrage falsch - Fabian trinkt einen Schaps
    
    
+## Preis
+Wenn alle Käpple gesammelt sind, gibt es selbstverständlich eine Belohnung.
+   
 ## Los geht's!
 Zum Starten [hier](https://andybraun.github.io/TP/TrivialCloosuit.html) klicken.
 
