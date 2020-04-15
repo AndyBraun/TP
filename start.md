@@ -34,4 +34,4 @@ Nicht empfohlen: Internet Explorer
 * Spielfigur durch Klicken auf das Spielfeld verschieben
 * Bei Erhalten eines Käppeles entsprechende Farbe auswählen
 
-![TrivialCloosuit](https://andybraun.github.io/TP/TP.jpg)
+![TrivialCloosuit](https://andybraun.github.io/TP/games.jpg)
