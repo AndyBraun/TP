@@ -7,8 +7,7 @@ Lieber Fabian,
 da wir heute leider nicht nach Offenburg kommen könnten, versammeln wir uns eben digial für einen kleinen Umtrunk. Und welches Spiel könnte den besser einläuten als ein alter Klassiker. 
 Um Malcoms Oma zu zitieren "ooh, du hast Geburstag, hier hast du ne Karte mit Möpsen drauf..."
 
-Alles Gute zum 33. Geburtstag wünschen
-Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Stevo, Strotti
+Alles Gute zum 33. Geburtstag wünschen Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti, Tobi mit Kind und Kegel.
 
 
 ## Die Spielregeln
