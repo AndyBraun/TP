@@ -8,7 +8,7 @@ da wir heute leider nicht nach Offenburg kommen könnten, versammeln wir uns ebe
 Um Malcoms Oma zu zitieren "ooh, du hast Geburstag, hier hast du ne Karte mit Möpsen drauf..."
 
 Alles Gute zum 33. Geburtstag wünschen 
-Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti, Tobi mit Kind und Kegel.
+Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti und Tobi - natürlich mitsamt Kind und Kegel.
 
 
 ## Die Spielregeln
@@ -23,7 +23,13 @@ Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti, To
 ## Los geht's!
 Zum Starten [hier](https://andybraun.github.io/TP/TrivialCloosuit.html) klicken.
 
-Getestet in Firefox, Chrome und Internet Explorer
-Notfalls auf "Warten" klicken, bis das Spiel geladen het. 
+Unterstützte Browser: Firefox, Chrome (notfalls mehrfach auf "Warten" klicken, bis die Seite geladen hat)
+Nicht empfohlen: Internet Explorer
+
+* Zum Starten 1x auf "Spielbrett aufbauen" klicken
+* Den Button "Spielen" gedrückt lassen
+* Den Button "Würfeln" zweimal anklicken
+* Spielfigur durch Klicken auf das Spielfeld verschieben
+* Bei Erhalten eines Käppeles entsprechende Farbe auswählen
 
 ![TrivialCloosuit](https://andybraun.github.io/TP/TP.jpg)
