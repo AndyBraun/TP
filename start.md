@@ -6,7 +6,7 @@
 
 Lieber Fabian,
 
-da wir heute leider nicht nach Offenburg kommen könnten, versammeln wir uns eben digial für einen kleinen Umtrunk. Und welches Spiel könnte den besser einläuten als ein alter Klassiker. 
+da wir heute leider nicht nach Offenburg kommen können, versammeln wir uns eben digial für einen kleinen Umtrunk. Und welches Spiel könnte den besser einläuten als ein alter Klassiker. 
 Um Malcoms Oma zu zitieren "ooh, du hast Geburtstag, hier hast du ne Karte mit Möpsen drauf..."
 
 Alles Gute zum 33. Geburtstag wünschen 
@@ -19,7 +19,7 @@ Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti und
    1. Frage richtig - die Cloosen trinken einen Schluck Bier
    1. Frage falsch - Fabian trinkt einen Schluck Bier
    1. Käppelesfrage richtig - der Vorlesende trinkt einen Schnaps (oder schreibt ihn auf den virtuellen Deckel)
-   1. Käppelesfrage falsch - Fabian trinkt einen Schaps (oder schreibt ihn auf den virtuellen Deckel)
+   1. Käppelesfrage falsch - Fabian trinkt einen Schnaps (oder schreibt ihn auf den virtuellen Deckel)
    
    
 ## Preis
