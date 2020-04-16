@@ -16,8 +16,8 @@ Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti und
 ## Die Spielregeln
 1. Du spielst das Spiel auf deinem Laptop, wir schauen dir über deinen geteilten Bildschirm dabei zu.
 1. Die Fragen lesen wir dir je nach Farbe vor. 
-   1. Frage richtig - die Cloosen trinken Bier
-   1. Frage falsch - Fabian trinkt ein Bier
+   1. Frage richtig - die Cloosen trinken einen Schluck Bier
+   1. Frage falsch - Fabian trinkt einen Schluck Bier
    1. Käppelesfrage richtig - der Vorlesende trinkt einen Schnaps (oder schreibt ihn auf den Deckel)
    1. Käppelesfrage falsch - Fabian trinkt einen Schaps (oder schreibt ihn auf den Deckel)
    
