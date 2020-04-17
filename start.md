@@ -23,7 +23,7 @@ Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti und
    
    
 ## Preis
-Wenn alle Käpple gesammelt sind, gibt es selbstverständlich eine Belohnung - ([Hinweis](https://andybraun.github.io/TP/Raidi2020.jpg)
+Wenn alle Käpple gesammelt sind, gibt es selbstverständlich eine Belohnung - ([Hinweis](https://andybraun.github.io/TP/Raidi2020.jpg))
    
 ## Los geht's!
 Zum Starten [hier](https://andybraun.github.io/TP/TrivialCloosuit.html) klicken.
