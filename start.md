@@ -20,7 +20,11 @@ Alex, Andy, Daniel B, Daniel H, Flori, Frank, Henkel, Pirmin, Stevo, Strotti und
    1. Frage falsch - Fabian trinkt einen Schluck Bier
    1. Käppelesfrage richtig - der Vorlesende trinkt einen Schnaps (oder schreibt ihn auf den virtuellen Deckel)
    1. Käppelesfrage falsch - Fabian trinkt einen Schnaps (oder schreibt ihn auf den virtuellen Deckel)
-   
+1. Du darfst einmalig einen Joker auswählen:
+   1. Eine neue Frage auf dem selben Feld
+   1. Nochmal würfeln
+   1. Hinweis auf die Anwort
+
    
 ## Preis
 Wenn alle Käpple gesammelt sind, gibt es selbstverständlich eine Belohnung ([Hinweis](https://andybraun.github.io/TP/Raidi_2020.jpg))
